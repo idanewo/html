@@ -1,0 +1,31 @@
+img { 
+	width:222;
+	height:222;
+}
+
+body{
+	background-color:azure;
+}
+	
+h1 {
+	color:CRIMSON;
+	text-align:center;
+	font-size:120;
+	
+}
+li {
+	text-align:center;
+	
+}
+
+div {
+	text-align:center;
+    font-size:30;
+	color:darkturquoise;
+	
+}
+
+span {
+	color:black;
+	font-family:Helvetica;
+}
